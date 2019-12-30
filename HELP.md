@@ -1,14 +1,13 @@
-# Getting Started
+# Likun Li
 
-### Reference Documentation
-For further reference, please consider the following sections:
+## Introduction
+- Front-end: Angular 8
+- Back-end: Spring Boot
+- Database: MySQL
+- Deployed Demo URL:  http://likuniscoding.com:8080
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.2.RELEASE/maven-plugin/)
-* [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/2.2.2.RELEASE/reference/htmlsingle/#using-boot-devtools)
 
-### Guides
-The following guides illustrate how to use some features concretely:
-
-* [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
-
+## Deploy method
+- run ```ng build``` at angular root path
+- move ```dist``` static files into Spring Boot resource directory
+- run ```mvn clean install``` at Spring Boot root path
