@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.provivi.likun.unitTest.LastNameTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.112 s - in com.provivi.likun.unitTest.LastNameTest
