@@ -4,7 +4,6 @@
 - Front-end: Angular 8
 - Back-end: Spring Boot
 - Database: MySQL
-- Deployed Demo URL:  http://likuniscoding.com:8080
 
 
 ## Deploy method
